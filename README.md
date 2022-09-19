@@ -1,2 +1,4 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# WHAT IS SOFTWARE ENGINEERING?
+*(https://ubiquity.acm.org/article.cfm?id=763745)*
+
+### The article was interesting as it discussed why software engineering is called engineering. Furthermore, I didn't know that initial developers wanted to call it as software physics. However, it was named as engineering because the term was already in use. The engineering term got stuck and is with us till date. Nevertheless, the article says and I agree, to some extent, that software production is not exactly engineering despite the fact that there might be some principles of engineering which can be significant in building a software. I liked the analogy made by the author in the article: "A software engineer is no more an engineer than a novelist is a word engineer." Furthermore, I stand by the author's opinion that maybe we are better off naming software engineering as "software production techniques" or some such.
